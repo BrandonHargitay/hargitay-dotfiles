@@ -8,3 +8,5 @@
 - pipes.sh
 
 set -o vi
+
+jet brains mono nerdfont prop
