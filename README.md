@@ -5,3 +5,5 @@
 - yabai
 - unimatrix
 - jankyborder
+
+set -o vi
