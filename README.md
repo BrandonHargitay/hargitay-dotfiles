@@ -5,5 +5,6 @@
 - yabai
 - unimatrix
 - jankyborder
+- pipes.sh
 
 set -o vi
